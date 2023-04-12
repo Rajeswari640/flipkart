@@ -1,0 +1,15 @@
+.headerImg img{
+    width: 45px;
+    height: 40px;
+    object-fit: cover;
+    object-position: center;
+    border: none;
+}
+#searchBar{
+    width: 15rem;
+    padding: 0.5rem 1rem;
+}
+.headerImg{
+    color:white;
+    background-color:papayawhip;
+}
